@@ -2,5 +2,5 @@
 
 ## Usage
 
-- `git clone github.com/seqlv/clear_macos_logs`
+- `git clone https://github.com/seqlv/clear_macos_logs`
 - `sudo python3 clear_macos_logs.py`
